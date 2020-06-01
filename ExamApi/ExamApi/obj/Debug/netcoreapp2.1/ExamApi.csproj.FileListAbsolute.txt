@@ -1,0 +1,14 @@
+C:\HR-Exam\ExamApi\ExamApi\bin\Debug\netcoreapp2.1\ExamApi.deps.json
+C:\HR-Exam\ExamApi\ExamApi\bin\Debug\netcoreapp2.1\ExamApi.runtimeconfig.json
+C:\HR-Exam\ExamApi\ExamApi\bin\Debug\netcoreapp2.1\ExamApi.runtimeconfig.dev.json
+C:\HR-Exam\ExamApi\ExamApi\bin\Debug\netcoreapp2.1\ExamApi.dll
+C:\HR-Exam\ExamApi\ExamApi\obj\Debug\netcoreapp2.1\ExamApi.csprojAssemblyReference.cache
+C:\HR-Exam\ExamApi\ExamApi\obj\Debug\netcoreapp2.1\ExamApi.csproj.CoreCompileInputs.cache
+C:\HR-Exam\ExamApi\ExamApi\obj\Debug\netcoreapp2.1\ExamApi.RazorAssemblyInfo.cache
+C:\HR-Exam\ExamApi\ExamApi\obj\Debug\netcoreapp2.1\ExamApi.RazorAssemblyInfo.cs
+C:\HR-Exam\ExamApi\ExamApi\obj\Debug\netcoreapp2.1\ExamApi.AssemblyInfoInputs.cache
+C:\HR-Exam\ExamApi\ExamApi\obj\Debug\netcoreapp2.1\ExamApi.AssemblyInfo.cs
+C:\HR-Exam\ExamApi\ExamApi\obj\Debug\netcoreapp2.1\ExamApi.RazorTargetAssemblyInfo.cache
+C:\HR-Exam\ExamApi\ExamApi\bin\Debug\netcoreapp2.1\ExamApi.pdb
+C:\HR-Exam\ExamApi\ExamApi\obj\Debug\netcoreapp2.1\ExamApi.dll
+C:\HR-Exam\ExamApi\ExamApi\obj\Debug\netcoreapp2.1\ExamApi.pdb
