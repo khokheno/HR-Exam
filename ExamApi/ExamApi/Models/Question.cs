@@ -13,9 +13,6 @@ namespace ExamApi.Models
         public string answer2 { get; set; }
         public string answer3 { get; set; }
         public string answer4 { get; set; }
-        public Int32 true_answer { get; set; }
-        public bool has_time { get; set; }
-        public Int32 time_in_seconds { get; set; }
-        
+        public Int32 true_answer { get; set; }    
     }
 }

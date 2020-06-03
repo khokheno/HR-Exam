@@ -28,21 +28,17 @@ namespace ExamApi.Migrations
 
                     b.Property<string>("answer4");
 
-                    b.Property<bool>("has_time");
+                    b.Property<bool>("true_answer");
 
                     b.Property<string>("question");
-
-                    b.Property<int>("time_in_seconds");
-
-                    b.Property<int>("true_answer");
 
                     b.HasKey("Id");
 
                     b.ToTable("Question");
 
                     b.HasData(
-                        new { Id = 1L, answer1 = "Paris", answer2 = "Rome", answer3 = "London", answer4 = "Berlin", has_time = true, question = "What's the capital of France?", time_in_seconds = 60, true_answer = 1 },
-                        new { Id = 2L, answer1 = "Paris", answer2 = "Rome", answer3 = "London", answer4 = "Berlin", has_time = true, question = "What's the capital of Italy?", time_in_seconds = 60, true_answer = 2 }
+                        new { Id = 1L, answer1 = "Paris", answer2 = "Rome", answer3 = "London", answer4 = "Berlin", has_time = true, question = "What's the capital of France?"},
+                        new { Id = 2L, answer1 = "Paris", answer2 = "Rome", answer3 = "London", answer4 = "Berlin", has_time = true, question = "What's the capital of Italy?"}
                     );
                 });
 #pragma warning restore 612, 618

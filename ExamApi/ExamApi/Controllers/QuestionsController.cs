@@ -10,7 +10,7 @@ using ExamApi.Models;
 
 namespace ExamApi.Controllers
 {
-    [Route("api/Questions")]
+    [Route("api/[controller]")]
     [ApiController]
     public class QuestionsController : ControllerBase
     {
